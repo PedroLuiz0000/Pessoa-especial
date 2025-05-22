@@ -6,10 +6,11 @@ h1 {
   color: rgba(0, 82, 189, 0.733); /*Pode escolher outra cor se quiser*/
   text-align: center;
   font-size: 50px;
+  font-family:fantasy;
 }
 
 p {
-  font-family:sans-serif;
+  font-family:'Times New Roman', Times, serif;
   font-size: 25px;
   color:crimson; 
 }
